@@ -2,7 +2,7 @@
 
 Aplicacao didatica em Java com interface Swing, orientacao a objetos, JDBC, `PreparedStatement`, validacao de regras de negocio e transacao SQL. O banco e H2 local em arquivo; nao precisa instalar um servidor PostgreSQL.
 
-> **Aviso sobre o enunciado:** as orientacoes do trabalho fornecidas pelo grupo mencionam PostgreSQL/Supabase como requisito. H2 serve para praticar JDBC e persistencia local, mas confirmem com o professor se ele aceita H2 para a entrega.
+> **Aviso sobre o enunciado:** as orientacoes do trabalho fornecidas mencionam PostgreSQL/Supabase como requisito. Devido a infraestrutura da Unieuro, usaremos o banco local H2, serve para praticar JDBC e persistencia local.
 
 ## Requisitos
 
@@ -82,9 +82,4 @@ O script `sql/schema.sql` tambem contem o esquema completo e os produtos de demo
 - `README.md`: instrucoes e declaracao de uso de IA.
 
 ## Declaracao de uso de IA
-
-Ajustem esta declaracao para corresponder ao uso real do grupo, conforme solicitado pelo professor:
-
-> Foi utilizado o ChatGPT (OpenAI) como ferramenta de apoio para estruturar o exemplo de projeto, revisar conceitos de Java Swing, JDBC, transacoes SQL e preparar instrucoes de execucao. Os integrantes revisaram, adaptaram e testaram o codigo antes da entrega.
-
-Nao afirmem que testaram partes que ainda nao foram executadas no computador do grupo.
+> Foi utilizado o ChatGPT (OpenAI) como ferramenta de apoio para estruturar o exemplo de projeto, revisar conceitos de Java Swing, JDBC, transacoes SQL e preparar instrucoes de execucao. Eu revisei, adaptei e testei o codigo antes da entrega.

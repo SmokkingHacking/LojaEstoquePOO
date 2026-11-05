@@ -1,0 +1,11 @@
+.idea/
+target/
+*.iml
+# Nao versione credenciais locais do banco.
+src/main/resources/db.properties
+
+# Banco local H2 e arquivos auxiliares
+data/*.mv.db
+data/*.trace.db
+data/*.lock.db
+lib/*.jar
